@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- ANIMATION     -->
+<div align="center">
+    <img alt="" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img alt="Coder GIF" width="auto" src="https://github.com/user-attachments/assets/7b5eb51b-9a79-4add-8f5e-8194ba869409" />
+  <img alt="" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+</div>
 
-<!--
-**birukindrias/birukindrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I am Biruk 
 
-Here are some ideas to get you started:
+## Freelance Web Developer
+I'm a **Web Developer** who loves working on **Frontend Development** and building complete solutions with **Laravel-PHP**. <br>
+I work as a **Freelancer** on project-based contracts, delivering quality results.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to **DM me** if you need any help. I'm here to assist!
+
+## Skills - Language and tools :
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,nextjs,jquery,tailwindcss,bootstrap,scss,mui,mysql,sqlite,ts,js,php,css,html,vite,npm,yarn,postman,git,github,vscode,netlify,vercel,powershell,figma,vite)](https://skillicons.dev)
+</br>
+</div>
+
+##  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=birukindrias&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=birukindrias&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=birukindrias&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+
