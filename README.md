@@ -7,8 +7,8 @@
 
 # Hey, I am Biruk 
 
-## Freelance Web Developer
-I'm a **Web Developer** who loves working on **Frontend Development** and building complete solutions with **Laravel-PHP**. <br>
+## Full Stack Developer
+I'm a **Developer** who loves working on **Full Stack Development** and building complete solutions with **MERN**,**NUXT.JS**,**FLUTTER**,**DJANGO**,**Laravel-PHP**. <br>
 I work as a **Freelancer** on project-based contracts, delivering quality results.<br>
 
 Feel free to **DM me** if you need any help. I'm here to assist!
