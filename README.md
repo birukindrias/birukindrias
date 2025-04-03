@@ -19,10 +19,5 @@ Feel free to **DM me** if you need any help. I'm here to assist!
 </br>
 </div>
 
-##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=birukindrias&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=birukindrias&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=birukindrias&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 
