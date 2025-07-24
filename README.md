@@ -26,9 +26,9 @@ Feel free to **DM me** if you need help, collaboration, or guidance.
 I'm here to assist and build something great with you!
 
 🌐 **Portfolio**: [iambiruk.com](https://iambiruk.com)  
-📫 **Email**: your.email@example.com  
-🐦 **Twitter**: [@yourhandle](https://twitter.com/BirukIndrias)  
-💼 **LinkedIn**: [your-name](https://www.linkedin.com/in/biruk007)
+📫 **Email**:  [work@iambiruk](work@iambiruk.com)  
+🐦 **Twitter**: [@BirukIndrias](https://twitter.com/BirukIndrias)  
+💼 **LinkedIn**: [Biruk Endrias](https://www.linkedin.com/in/biruk007)
 
 ---
 
